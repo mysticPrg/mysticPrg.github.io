@@ -1,6 +1,6 @@
 logo: # add logo name
 title: mysticPrg's creative mind
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   mysticPrg 의 개인 블로그
 #permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -13,19 +13,22 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+author-name: Hyeongu Hwang
+about-author: 하고 싶은거 많고 돈도 많이 벌고 싶은, 꿈많은 개발자.
+author-job: 현재 카카오 FE팀 재직중
+author-nick-names: mysticPrg, copy.left, hank
+
+email: mysticPrg@gmail.com
+phone: 010-7241-2250
+website: https://mysticPrg.github.io
 
 # Social link
-google_url:    # add url link
-twitter_url:   # add url link
-instagram_url: # add url link
-pinterest_url: # add url link
-dribbble_url:  # add url link
-facebook_url:  # add url link
+google_url:
+twitter_url:
+instagram_url:
+pinterest_url:
+dribbble_url:
+facebook_url: https://www.facebook.com/mysticprg
 
 # Disqus
 discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
