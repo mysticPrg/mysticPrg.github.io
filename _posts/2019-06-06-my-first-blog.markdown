@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "첫번째 포스트 : first post"
-# img: himalayan.jpg # Add image post (optional)
+img: himalayan.jpg
 date: 2019-06-06 12:45:00 +0900
 description: 간단한 설명, english
 tag: [javascript]
